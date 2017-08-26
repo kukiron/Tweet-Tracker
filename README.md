@@ -11,5 +11,5 @@ start the app:
 ```shell
 npm run start
 ```
-> your app will running on ```port 7005```
+> your app will run on ```port 7005```
   open your browser and type ```http://localhost:7005```
